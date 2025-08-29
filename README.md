@@ -15,3 +15,6 @@ chmod +x bas
 ```
 ```bash
 ./bas
+```
+BAS - A Python tool to generate passwords and automate tasks
+
