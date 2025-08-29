@@ -11,7 +11,7 @@ It can help you create strong passwords easily and quickly.
 - Easy-to-use CLI interface
 - Quick automation for simple tasks
 
-## How to Run
+##Run on a Linux machine 
 
 
 Copy these commands to run the project:
