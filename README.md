@@ -12,13 +12,6 @@ It can help you create strong passwords easily and quickly.
 - Quick automation for simple tasks
 
 ## How to Run
-```bash
-git clone https://github.com/osi-177/BAS
-cd bas
-chmod +x bas
-./bas
-
-## How to Run the Project
 
 
 Copy these commands to run the project:
