@@ -15,4 +15,3 @@ chmod +x bas
 ```
 ```bash
 ./bas
- 
