@@ -6,7 +6,10 @@ Copy these commands to run the project:
 
 ```bash
 git clone https://github.com/osi-177/BAS
+```bash
 cd bas
+```bash
 chmod +x bas
+```bash
 ./bas
  
