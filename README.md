@@ -2,7 +2,7 @@
 
 # BAS - Password Generator Tool
 
-=======================
+==========================
 BAS is a Python tool to generate passwords and automate simple tasks.
 It can help you create strong passwords easily and quickly.
 
