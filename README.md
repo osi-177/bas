@@ -1,8 +1,12 @@
-# bas
+# BAS
 
+## How to Run the Project
 
-#
-git clone https://github.com/username/BAS
+Copy these commands to run the project:
+
+```bash
+git clone https://github.com/osi-177/BAS
 cd bas
-./bas.py
-#
+chmod +x bas
+./bas
+ 
